@@ -4,11 +4,6 @@
 I am a passionate **Software Engineer** specialized in **Full Stack Development**, with experience building scalable web and mobile applications.  
 I love creating solutions that improve collaboration, usability, and efficiency.  
 
-<p align="left">
-  <img src="https://res.cloudinary.com/wiki-sans/image/upload/v1725306862/dev2_ulaxb7.webp" alt="Developer at work" width="500"/>
-</p>
-
-
 ## 🚀 About Me  
 
 - 🎓 Degree in **Computer Systems Engineering**  
