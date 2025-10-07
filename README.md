@@ -7,9 +7,7 @@ I love creating solutions that improve collaboration, usability, and efficiency.
 ## 🚀 About Me  
 
 - 🎓 Degree in **Computer Systems Engineering**  
-- 💻 Experience in **Full Stack development** (Web & Mobile)  
-- 🏗️ Skilled in **building internal tools & documentation systems** (custom Wiki project)  
-- 📱 Experience developing **iOS & Android apps** (Swift, Java, VIPER, Android Studio)  
+- 💻 Experience in **Full Stack development** 
 - ⚡ Passionate about **clean code, scalability, and agile methodologies**  
 - 🌎 From **Honduras**  
 
